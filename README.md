@@ -29,9 +29,35 @@ By implementing these insights, Telco can reduce revenue loss, improve customer 
 ### **Project Background:**
 In the highly competitive telecommunications industry, customer retention is crucial for maintaining profitability and ensuring long-term success. Customer churn refers to the loss of customers over a specified period, and understanding the reasons behind customer attrition is vital for businesses. This project aims to analyze customer data to identify patterns, predict churn, and develop actionable insights to improve customer retention strategies.
 
+
+### **📌 Project Objectives:** 
+
+- Analyze customer behavior and identify patterns leading to churn.
+- Visualize key metrics such as customer tenure, service usage, and contract types.
+- Provide actionable insights to enhance customer retention strategies.
+- Showcase interactive dashboards for real-time data exploration.
+
+### 📊 Dashboard Features:
+
+- Customer Overview: A comprehensive view of customer demographics and service details.
+- Churn Analysis: Identify key factors driving customer churn.
+- Service Insights: Analyze service types (Internet, Phone) and their impact on retention.
+- Key Metrics: Monthly churn rate, customer lifetime value, and contract trends.
+- Interactive Filters: Explore data by customer segments, tenure, and services.
+
 ### **Project Overview:**
 The Telco Customer Churn Prediction Analysis project focuses on utilizing customer data to understand the factors driving customer churn. By leveraging data analytics and visualization through Power BI, the project identifies high-risk customers, key churn drivers, and provides business recommendations to mitigate churn rates. This project helps the company reduce revenue loss and improve customer satisfaction through data-driven decision-making.
 
+
+### **🛠️ Tools & Technologies Used:**
+Power BI – Interactive dashboard design and data visualization.
+Excel/CSV – Data cleaning and preprocessing.
+SQL (if applicable) – Data extraction and transformation.
+
+### **📈 Insights & Outcomes:**
+Identified top factors influencing customer churn.
+Improved decision-making with interactive, data-driven visualizations.
+Demonstrated the power of business intelligence in customer retention.
 ### **Project Workflow:**
 1. **Data Collection:** Gathering customer data from the telecommunications company, including demographics, service usage, payment methods, and churn status.
 2. **Data Cleaning & Preprocessing:** Handling missing values, removing duplicates, and transforming data into a suitable format for analysis.
